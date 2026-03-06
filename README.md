@@ -1,4 +1,5 @@
 
+
 # 🕒 Digital Clock
 
 A sleek, modern digital clock built with HTML, CSS, and JavaScript.  
@@ -54,3 +55,11 @@ Said Hadjadj
 GitHub: @saidhadjadj
 
 ⭐ Feel free to fork, use, or contribute – any feedback is welcome!
+=======
+# Clock2
+
+A Pen created on CodePen.
+
+Original URL: [https://codepen.io/cosaidepen/pen/gOENBpd](https://codepen.io/cosaidepen/pen/gOENBpd).
+
+>>>>>>> 6c9ad573581700e21c92428d2fa4d1aa3af905d3
