@@ -50,11 +50,7 @@ h1{
   margin-left: 29.6rem;
   margin-bottom:3rem;
   word-spacing: 10px;
-
 }
-
-/*  buttons style */
-
 .button-bar {
   display: flex;
   gap: 3.5rem;
@@ -76,9 +72,6 @@ h1{
   letter-spacing: 1px;
   box-shadow: 0 0 15px rgba(250, 204, 21, 0.3);
 }
-
-
-/* === THÈME CLAIR === */
 
 
 body.light .button-bar button {
@@ -127,7 +120,6 @@ body.light .button-bar button {
   margin-top: 45px;
   text-shadow: 1px 1px 3px #222;;
 }
-/* stylisation du theme dark/light  theme : clair/*/
 body.light {
   background: rgba(0, 0, 0, 0.2);
  
