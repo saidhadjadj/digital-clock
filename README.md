@@ -5,7 +5,7 @@
 A sleek, modern digital clock built with HTML, CSS, and JavaScript.  
 Includes real‑time display, 12/24‑hour format toggle, light/dark theme, and a fully responsive design.
 
-🔗 **Live demo:** [digital-clock.vercel.app](https://digital-clock.vercel.app)
+🔗 **Live demo:** [digital-clock.vercel.app](https://digital-clock-c6ct.vercel.app)
 
 ---
 
